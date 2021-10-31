@@ -29,3 +29,8 @@ User Type (Subscriber or Customer)
 > The Chicago and New York City files also have the following two columns:
 - Gender
 - Birth Year
+
+### Dataset Download links : 
+Chicago : https://www.divvybikes.com/system-data
+New York City : https://www.citibikenyc.com/system-data
+Washington : https://www.capitalbikeshare.com/system-data
